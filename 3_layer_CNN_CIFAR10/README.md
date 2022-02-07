@@ -1,6 +1,10 @@
 # README
 
-This project is created for image recognition task on CIFAR10 dataset with 3-CNN Layer. 
+This project is created for image recognition task on CIFAR10 dataset with 3-CNN Layer.  
+
+Restrictions:  
+* We have to create own training function.
+* We have to use max 3 layer CNN.
 
 ## Required Libraries and Versions
 
